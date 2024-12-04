@@ -22,6 +22,7 @@ public class Entreprise implements Serializable{
 	private Long id;
 	
 	private String name;
+	//hdhdhddhdhdhd
 	
 	private String raisonSocial;
 	
